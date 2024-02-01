@@ -67,7 +67,8 @@ for the main project and a lot of code.
 - [kfd] From @felix-pb
 for the exploit 'puaf_landa' code.
 (https://github.com/felix-pb/kfd)
-- [Cardinal](https://github.com/leminlimez/Cardinal) for Card Changer.
+- [Cardinal] From @leminlimez (https://github.com/leminlimez/Cardinal)
+for Card Changer.
 - Misaka for offsets.
 
 ## Suggestions and support
