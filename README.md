@@ -1,9 +1,16 @@
 # Cluckabunga
-KFD Customization Tool for iOS 16.2-16.5 & 16.6b1
+KFD Customization Tool for iOS 16.2-16.5 &
+16.6b1 | Support for puaf_landa will be
+available as soon as i finish. 
 
-IPA available in the [Releases](https://github.com/leminlimez/Cluckabunga/releases/latest) section.
+# Version support in the next update
+Added: iOS 16.6b-16.6.1 & 17.0b5
+Added: KFD puaf_landa
+NOT SURE: Possible TrollStore installer
 
-Support me on [Ko-Fi](https://ko-fi.com/leminlimez).
+# Download 
+IPA will be available in the [releases] section as soon as i finish.
+
 
 ## Features
 - Springboard
@@ -16,7 +23,7 @@ Support me on [Ko-Fi](https://ko-fi.com/leminlimez).
     - Custom number of frames + custom animation speeds (see below)
  
 - Explore
-    - Find and download themes for locks and passcodes!
+    - Find and download themes for locks and passcodes! (it broke for now)
     - If you would like to submit your own works, please [join the discord](https://discord.gg/Cowabunga)
  
 - Other Tools
@@ -26,7 +33,7 @@ Support me on [Ko-Fi](https://ko-fi.com/leminlimez).
     - Passcode Key Changer
  
 ## Installing
-You can install through AltStore, Sideloadly, or Xcode
+You can install through AltStore, Sideloadly,TrollStore or Xcode
 
 ## Creating Custom Lock Animations
 Lock animations are very simple to make. For the frames, each image must be named "trollformation" with a number afterwards (ie. trollformation1.png, trollformation2.png, trollformation3.png...). You can use up to 120 frames, though I am not sure of the exact size limit, which is probably much less.
@@ -51,9 +58,13 @@ The `Time Interval` is how long the frame stays on the screen for.
 Just build like a normal Xcode project. Sign using your own team and bundle identifier. You can also build the IPA file with `ipabuild.sh`.
 
 ## Credits
+- [Cluckabunga] Original From @leminlimez
+(https://github.com/leminlimez/Cluckabung)
+for the main project and a lot of code.
 - [Cowabunga](https://github.com/leminlimez/Cowabunga) for a lot of the code.
 - [Cardinal](https://github.com/leminlimez/Cardinal) for Card Changer.
 - Misaka for offsets.
 
 ## Suggestions and support
-You can either create an issue on this GitHub repo, or join our [Discord server](https://discord.gg/Cowabunga) where us, or other members, might help you.
+Let me know if you have a issue or a suggestion just create at the issues in the top;)
+__________________________________________
