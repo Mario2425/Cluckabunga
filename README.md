@@ -3,7 +3,7 @@ KFD Customization Tool for iOS 16.2-16.5 &
 16.6b1 | Support for puaf_landa will be
 available as soon as i finish. 
 
-# What will be added in the next update
+# In the next update
 Added: Support for iOS 16.6b2-16.6.1 & 17.0b5
 
 
