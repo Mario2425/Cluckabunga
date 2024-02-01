@@ -28,7 +28,6 @@ IPA will be available in the [releases] section as soon as i finish.
  
 - Explore
     - Find and download themes for locks and passcodes! (it broke for now)
-    - If you would like to submit your own works, please [join the discord](https://discord.gg/Cowabunga)
  
 - Other Tools
     - Custom Fonts
@@ -54,7 +53,7 @@ Example:
 }
 ```
 **Explanation:**
-You do not need to state the length of each frame. The only time that absolutely needs to be defined is the first frame. If you did not set a time for the frame, Cowabunga will use the time from the last frame.
+You do not need to state the length of each frame. The only time that absolutely needs to be defined is the first frame. If you did not set a time for the frame, Cluckabunga will use the time from the last frame.
 The `Time Interval` is how long the frame stays on the screen for.
 **Important:** The frame number must be a string (meaning in quotes) because of how json decoding works.
 
@@ -65,7 +64,9 @@ Just build like a normal Xcode project. Sign using your own team and bundle iden
 - [Cluckabunga] Original From @leminlimez
 (https://github.com/leminlimez/Cluckabung)
 for the main project and a lot of code.
-- [Cowabunga](https://github.com/leminlimez/Cowabunga) for a lot of the code.
+- [kfd] From @felix-pb
+for the exploit 'puaf_landa' code.
+(https://github.com/felix-pb/kfd)
 - [Cardinal](https://github.com/leminlimez/Cardinal) for Card Changer.
 - Misaka for offsets.
 
