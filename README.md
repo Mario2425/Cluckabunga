@@ -62,7 +62,7 @@ Just build like a normal Xcode project. Sign using your own team and bundle iden
 
 ## Credits
 - [Cluckabunga] Original From @leminlimez
-(https://github.com/leminlimez/Cluckabung)
+(https://github.com/leminlimez/Cluckabun)
 for the main project and a lot of code.
 - [kfd] From @felix-pb
 for the exploit 'puaf_landa' code.
