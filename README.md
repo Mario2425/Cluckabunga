@@ -27,12 +27,12 @@ IPA will be available in the [releases] section as soon as i finish.
     - Custom number of frames + custom animation speeds (see below)
  
 - Explore
-    - Find and download themes for locks and passcodes! (it broke for now)
+    - Find and download themes for locks and passcodes! (needs testing)
  
 - Other Tools
     - Custom Fonts
     - Settings App Customizer
-    - Apple Cards Changer
+    - Apple Cards Changer (it broke for now)
     - Passcode Key Changer
  
 ## Installing
